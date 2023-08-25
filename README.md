@@ -1,2 +1,2 @@
-# Tricky-Ricky
+# Ricky Roque Jr.
 Python Docs
